@@ -10,7 +10,7 @@
     status = "okay";
     trackball: trackball@0 {
         status = "okay";
-	}
+	};
 };
 
 &trackball_split {
