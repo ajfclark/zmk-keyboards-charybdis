@@ -1,6 +1,2 @@
 #include "charybdis.dtsi"
 #include "charybdis_3610.dtsi"
-
-&trackball_listener {
-	status = "okay";
-};
